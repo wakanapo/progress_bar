@@ -1,4 +1,4 @@
-#include "progress_bar.hpp"
+#include "progress_bar.h"
 
 #include <unistd.h>
 
